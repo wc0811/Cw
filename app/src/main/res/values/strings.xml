@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestTitle</string>
+    <string name="app_test_title">首页</string>
+    <string name="app_test_click_menu">点击了菜单按钮</string>
+
+</resources>
